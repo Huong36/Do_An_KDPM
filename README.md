@@ -16,6 +16,8 @@ Dự án mô phỏng quá trình kiểm thử thực tế, từ khâu lập kế
 - **`5_AutoDescription_WEBBANHNGOT/`**: Chứa Source Code C# Selenium và Video demo tự động hóa.
 - **`6_TestReport_WEBBANHNGOT.xlsx`**: Báo cáo tổng kết chất lượng của phần mềm sau khi test.
 
+> 💡 **Lưu ý nhỏ:** Nếu bạn muốn lấy toàn bộ mã nguồn (Source Code) của website Bán Bánh Ngọt trên để cài đặt chạy thử, vui lòng truy cập vào thư mục **`6_DOCS_WEBBANHNGOT`** hoặc ghé thăm kho lưu trữ [Web_Banhngot_DoAnck](https://github.com/Huong36/Web_Banhngot_DoAnck).
+
 ## Công nghệ & Kỹ thuật
 - **Phương pháp**: Black-box Testing, Functional Testing, UI/UX Testing.
 - **Automation**: Selenium WebDriver (viết bằng ngôn ngữ C#).
